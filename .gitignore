@@ -1,0 +1,23 @@
+# Separately licensed platform dependencies and generated board project
+/vendor/
+/assets/
+/constraints/
+/td_project/
+/rtl/hx1p35_lpr_top.v
+/rtl/lpr_cn_font.v
+*.mem
+# Local outputs and configuration
+/build/
+/sim/*_work/
+/sim/work/
+/sim/modelsim.ini
+/sim/transcript
+*.wlf
+*.vcd
+*.log
+__pycache__/
+*.pyc
+.env
+.env.*
+*.bit
+*.db

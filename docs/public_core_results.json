@@ -1,0 +1,57 @@
+[
+  {
+    "test": "tb_lpr_cn_sampler",
+    "passed": true,
+    "seconds": 3.73
+  },
+  {
+    "test": "tb_lpr_cn_vote",
+    "passed": true,
+    "seconds": 3.71
+  },
+  {
+    "test": "tb_lpr_cn_detector",
+    "passed": true,
+    "seconds": 4.66
+  },
+  {
+    "test": "tb_lpr_cn_tracker",
+    "passed": true,
+    "seconds": 3.79
+  },
+  {
+    "test": "tb_lpr_cn_quality",
+    "passed": true,
+    "seconds": 4.0
+  },
+  {
+    "test": "tb_lpr_sobel_support",
+    "passed": true,
+    "seconds": 3.88
+  },
+  {
+    "test": "tb_green_gray_roi",
+    "passed": true,
+    "seconds": 3.79
+  },
+  {
+    "test": "tb_green_components",
+    "passed": true,
+    "seconds": 3.82
+  },
+  {
+    "test": "tb_green_components_limits",
+    "passed": true,
+    "seconds": 4.08
+  },
+  {
+    "test": "tb_ocr_latency",
+    "passed": true,
+    "seconds": 3.87
+  },
+  {
+    "test": "tb_v24_address",
+    "passed": true,
+    "seconds": 3.58
+  }
+]
